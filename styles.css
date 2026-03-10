@@ -1,0 +1,27 @@
+body {
+    font-family : Arial, sans-serif;
+    text-align : center;
+    background-color: rgb(173, 221, 221);
+}
+.container{
+    width: 50%;
+    margin:40px auto;
+}
+
+#quote{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+button{
+    padding : 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(146, 32, 178);
+    color:goldenrod;
+    cursor : pointer;
+}
+
+button:hover {
+    background-color: rgb(71, 153, 51);
+}
